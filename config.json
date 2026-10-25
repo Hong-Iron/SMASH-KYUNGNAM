@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "제1공학관": {
+      "style": "brick",
+      "wall": "#8e5a4c",
+      "glass": "#3c4044",
+      "frame": "#d8d4cc"
+    },
+    "제1한마생활관": {
+      "style": "dorm",
+      "wall": "#9b6a5a",
+      "glass": "#3a3f44",
+      "frame": "#e8e6e0"
+    },
+    "고운관(인문관)": {
+      "style": "stone",
+      "wall": "#e8ecee",
+      "glass": "#3e4a50",
+      "frame": "#89959d"
+    },
+    "교육관": {
+      "style": "tan",
+      "wall": "#e6dcc8",
+      "glass": "#3a4650",
+      "frame": "#f2efe8"
+    },
+    "체육관": {
+      "style": "brick",
+      "wall": "#6e4a40",
+      "glass": "#5a6a78",
+      "frame": "#e2d8c0"
+    },
+    "중앙도서관": {
+      "style": "stone",
+      "wall": "#eceeee",
+      "glass": "#3e4c56",
+      "frame": "#b8bcbe"
+    },
+    "한마미래관": {
+      "style": "tan",
+      "wall": "#d8ccb8",
+      "glass": "#3e6e72",
+      "frame": "#9b9da5"
+    },
+    "본관": {
+      "style": "stone",
+      "wall": "#e6e8e6",
+      "glass": "#2e3a34",
+      "frame": "#a9b1ba"
+    },
+    "제4공학관": {
+      "style": "tan",
+      "wall": "#e8dcc6",
+      "glass": "#4a6878",
+      "frame": "#a88a58"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
