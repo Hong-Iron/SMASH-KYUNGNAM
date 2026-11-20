@@ -1,0 +1,34 @@
+{
+ "region": "경남 창원시 마산합포구 월영동",
+ "nameEn": "Kyungnam University",
+ "added": "2026-10-24T16:30",
+ "rank": 48,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "CHANGSHIN",
+   "campus": "창신대학교",
+   "km": 8.1
+  },
+  {
+   "code": "MASAN",
+   "campus": "마산대학교",
+   "km": 9.9
+  },
+  {
+   "code": "CWNU",
+   "campus": "국립창원대학교",
+   "km": 14.5
+  },
+  {
+   "code": "BPU",
+   "campus": "부산장신대학교",
+   "km": 29.2
+  },
+  {
+   "code": "GAYA",
+   "campus": "가야대학교",
+   "km": 30.6
+  }
+ ]
+}
